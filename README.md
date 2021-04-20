@@ -13,7 +13,7 @@
 - .dr @nombre "cantidad": * 1vs1,  serán dados por turnos, la primera persona tirara dados del 1 a la cantidad apostada, el siguiente tirara dados de 1 a los dados obtenidos anteriormente,  el  primero en tirar 1 perderá*
 
 - .siete  "cantidad": jugara contra el bot el tirara dos dados del 1 al 6 y estos se 
-- sumaran, usted mediante las reacciones tendra que elegir entre alto bajo o 7
-- si elije bajo ganara "cantidad"x2  si la suma de los dados es menor a 7, 
-- si elije alto  ganara "cantidad"x2  si la suma de los dados es mayor a 7 
-- si elije 7 gana "cantidad"x4 si la suma de  los dados es 7
+ sumaran, usted mediante las reacciones tendra que elegir entre alto bajo o 7
+ si elije bajo ganara "cantidad"x2  si la suma de los dados es menor a 7, 
+ si elije alto  ganara "cantidad"x2  si la suma de los dados es mayor a 7 
+ si elije 7 gana "cantidad"x4 si la suma de  los dados es 7
